@@ -17,7 +17,7 @@ This project focuses on making an AI chat-bot which has immense knowledge of IIT
 - ✅ Basic Python Syntax and Implementations.
 - ✅ 
 - ✅ 
-- 🟡 
+- 🟡 AI/ML using Python - Libraries such as numpy , panda etc.
 - 🟡 
 - 🟡 
 - 🟡 
