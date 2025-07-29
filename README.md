@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Status-In%20Development-yellow" alt="Status: In Development">
   <div align="center">
-    <img src=".\Users\honey\OneDrive\Desktop\ai.jpg" width="600" alt="Project Image">
+    <img src="./Users/honey/OneDrive/Desktop/ai.jpg" width="600" alt="Project Image">
     <br>
    
   </div>
