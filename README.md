@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Status-In%20Development-yellow" alt="Status: In Development">
   <div align="center">
-    <img src="C:\ai.jpg" width="600" alt="Project Image">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bakertilly.com%2Finsights%2Fthe-ai-technology-landscape-explained&psig=AOvVaw00xNkWTpnrTk09UgsYi8zH&ust=1753862256785000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDLgOfM4Y4DFQAAAAAdAAAAABAE" width="600" alt="Project Image">
     <br>
    
   </div>
