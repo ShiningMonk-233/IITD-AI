@@ -2,9 +2,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-In%20Development-yellow" alt="Status: In Development">
-  <img src=https://img.shields.io/badge/Platform-PX4-blue) alt="Platform :">
   <div align="center">
-    <img src="C:\Users\honey\OneDrive" width="600" alt="Project Image">
+    <img src="C:\Users\honey\OneDrive\Desktop\ai.jpg" width="600" alt="Project Image">
     <br>
    
   </div>
