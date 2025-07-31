@@ -16,7 +16,7 @@ This project focuses on making an AI chat-bot which has immense knowledge of IIT
 ### 🎯 Goals
 - ✅ Basic Python Syntax and Implementations.
 - ✅ OOP in Python.
-- ✅ Libraries such as Pandas , numpy , TensorFLow etc <more in the roadmap>
+- ✅ Libraries such as Pandas , numpy , TensorFLow etc (more in the roadmap)
 - 🟡 AI/ML using Python
 - 🟡 
 - 🟡 
